@@ -1,9 +1,16 @@
 //Instruktion er når vi fortæller at en handling skal ske præcis sårn
 //Sekvens er en rækkefølge, mest set i form af en talrækkefølge, men somregel en gruppe instrukser
+
 //Funktion en samling der kan genkaldes istedet for at skrive det mere end to gange.
+
+// kunne man måske sige at en funktion er en sekvens eller instruktion som kan gentages? 
+
 //Kontrolstruktur styringen af programmet
 //Betingelser stiller et krav som skal opfyldes før det næste kan udføres
 //Forgrening hvis der er et antal muligheder så er svaret enten sandt eller falsk
+// eller de valg man har efter en betingelse :)
+
+
 //Løkke når noget bliver gentaget fx. en sekvens kode
 //Variabel en værdi der kan ændres(https://data-flair.training/blogs/java-data-types/)
 // ikke primitive
@@ -22,10 +29,13 @@
 //  h. Double. en længere og præcis float
 //Funktion er en komando der kan referes til.
 //Initiering når man giver noget en værdi
-//Deklaration fortæller os hvad værdien indeholder
-//Parameter nogle ting der skal overholdes
 
-//Cammelback notation er "//" som tillader os at skrive i et program, altså notationer.
+//Deklaration fortæller os hvad værdien indeholder
+// uhhh !!! Husk på varedeklaration siger noget om hvad der er i varen. Så en variabel deklaration er hvilken datatype som variablen kan indeholde. 
+
+//Parameter nogle ting der skal overholdes // NEJ !! Variabler som sendes til en funktion
+
+//Cammelback notation er "//" som tillader os at skrive i et program, altså notationer. // NEJ det er måden man skriver navne på.
 
 //Denne opgave handler om at forstå de forskellige datatyper. 
 
