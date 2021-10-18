@@ -1,3 +1,5 @@
+// husk lige kommentarer i din kode :)
+
 float a=2;
 float b=2;
 
